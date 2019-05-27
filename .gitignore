@@ -1,4 +1,6 @@
 .DS_Store
 node_modules/
 search-my-movie-webview-go
+search-my-movie-webview-go.exe
+build/
 
